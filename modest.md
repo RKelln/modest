@@ -1,4 +1,5 @@
-# Modest
+# Data Visualization and Application Series 
+## DSC 3020: Statistical Analysis
 
 [Modest](https://github.com/markdowncss/modest) is the fourth of many stylesheets to make HTML generated from
 markdown look beautiful. A list of all available stylesheets can be found [here](https://github.com/markdowncss).
