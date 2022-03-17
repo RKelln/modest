@@ -1,6 +1,6 @@
 {
   "name": "markdown-modest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A modest markdown CSS theme.",
   "main": "gulpfile.js",
   "scripts": {
