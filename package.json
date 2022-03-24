@@ -22,7 +22,7 @@
     "url": "https://github.com/markdowncss/modest/issues"
   },
   "homepage": "https://github.com/markdowncss/modest",
-  "dependencies": {
+  "devDependencies": {
     "furtive-code": "0.0.1",
     "furtive-links": "0.0.2",
     "furtive-print": "0.0.1",
