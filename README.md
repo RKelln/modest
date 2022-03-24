@@ -1,6 +1,8 @@
 # Modest
 
-A [markdown theme](https://markdowncss.github.io) that is rather modest.
+A [markdown theme](https://markdowncss.github.io) that is rather modest. Based on [John Otander's ](http://johnotander.com) theme of the same name, but modified for my personal use.
+
+Note that I have roughly updated some outdated packages, but there is still quite a bit of work to be done to modernize the dependencies. However, the css should be fine. 
 
 ## Installation
 
@@ -15,13 +17,13 @@ This theme integrates well with `rework-npm`, and has rework CSS available in th
 #### Clone the repo:
 
 ```
-git clone https://github.com/markdowncss/modest.git
+git clone https://github.com/RKelln/modest
 ```
 
 #### Development:
 
 ```
-git clone https://github.com/markdowncss/modest.git && cd modest
+git clone https://github.com/RKelln/modest && cd modest
 npm install
 gulp
 ```
